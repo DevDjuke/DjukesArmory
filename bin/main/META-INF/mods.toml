@@ -1,0 +1,17 @@
+modLoader="javafml" 
+loaderVersion="[39,)" 
+license="All rights reserved"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+
+[[mods]] 
+modId="djukesarmory"
+version="0.0.0.1" 
+displayName="Djuke's Armory" 
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+#logoFile="examplemod.png" #optional
+#credits="Thanks for this example mod goes to Java" #optional
+authors="Djuke" #optional
+description='''
+                This is a long form description of the mod. You can write whatever you want here
+            '''
